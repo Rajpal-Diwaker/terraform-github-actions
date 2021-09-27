@@ -58,7 +58,7 @@ function terraformPlan {
     planCommentWrapper="#### \`terraform plan\` ${planCommentStatus}
 <details><summary>Show Output</summary>
 
-\`\`\`
+\`\`\`terraform
 ${planOutput}
 \`\`\`
 
